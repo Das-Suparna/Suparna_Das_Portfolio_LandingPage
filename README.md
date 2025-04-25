@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Suparna_Das_Portfolio_LandingPage
+# Suparna_Das_Portfolio_LandingPage created using ReactJS
 =======
 # Getting Started with Create React App
 
