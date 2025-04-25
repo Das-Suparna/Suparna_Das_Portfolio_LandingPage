@@ -1,5 +1,5 @@
-# Suparna_Das_Portfolio_LandingPage created using ReactJS
-
+# Suparna_Das_Portfolio_LandingPage created using ReactJS styled using Bootstrap CSS
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
